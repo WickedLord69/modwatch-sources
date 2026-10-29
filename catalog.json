@@ -107,7 +107,8 @@
       "Aliases": [
         "EUPMenu",
         "EUP Menu",
-        "Emergency Uniforms Pack Menu"
+        "Emergency Uniforms Pack Menu",
+        "EUP Menu GTA V"
       ],
       "ReviewOnly": false
     },
@@ -200,12 +201,12 @@
       "ReviewOnly": false
     },
     {
-      "FileName": "Jurisdictions\u002B.dll",
-      "Name": "Jurisdictions\u002B (XML scripts for LSPDFR)",
+      "FileName": "Jurisdictions+.dll",
+      "Name": "Jurisdictions+ (XML scripts for LSPDFR)",
       "Author": "",
       "Url": "https://www.gta5-mods.com/misc/lspdfr-xml-jurisdictions-versions",
       "Aliases": [
-        "Jurisdictions\u002B"
+        "Jurisdictions+"
       ],
       "ReviewOnly": false
     },
@@ -274,7 +275,7 @@
     },
     {
       "FileName": "NoBoundaryLimitsEnhanced.asi",
-      "Name": "No Boundary Limits Enhanced [Legacy \u002B Enhanced]",
+      "Name": "No Boundary Limits Enhanced [Legacy + Enhanced]",
       "Author": "",
       "Url": "https://www.gta5-mods.com/scripts/no-boundary-limits-enhanced",
       "Aliases": [
@@ -437,7 +438,7 @@
     },
     {
       "FileName": "RichsPoliceEnhancements.dll",
-      "Name": "Rich\u0027s Police Enhancements",
+      "Name": "Rich's Police Enhancements",
       "Author": "",
       "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/26640-richs-police-enhancements/",
       "Aliases": [
