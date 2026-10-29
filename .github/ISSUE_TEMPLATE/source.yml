@@ -1,0 +1,56 @@
+name: Submit a mod source
+description: Propose a plugin/script download page for the shared ModWatch catalog.
+title: "[Source] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit public source information only. No DLL uploads, private paths, passwords or file hashes.
+        Your personal source works immediately in ModWatch. This shared reference stays pending until the catalog owner approves it.
+  - type: input
+    id: filename
+    attributes:
+      label: Filename
+      placeholder: CustomPullover.dll
+    validations:
+      required: true
+  - type: input
+    id: mod_name
+    attributes:
+      label: Mod name
+      placeholder: Custom Pullover
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: The author credited on the release page, if known.
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      description: HTTPS release page, not a direct archive or a page that merely requires the plugin.
+    validations:
+      required: true
+  - type: input
+    id: aliases
+    attributes:
+      label: Search aliases
+      description: Optional alternate names, separated by semicolons.
+  - type: dropdown
+    id: comparison
+    attributes:
+      label: Version comparison
+      options:
+        - Normal version checks
+        - Require manual build review
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked that this page supplies this exact plugin/script, rather than a vehicle, translation, dependency or unrelated add-on.
+          required: true
