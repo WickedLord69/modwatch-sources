@@ -1,0 +1,35 @@
+name: Review source submissions
+on:
+  issues:
+    types: [opened, edited, reopened]
+  issue_comment:
+    types: [created]
+  push:
+    paths: [moderate.py, test_moderate.py, .github/workflows/moderation.yml]
+permissions: {}
+jobs:
+  tests:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - run: python3 -m unittest -v test_moderate.py
+  moderate:
+    if: github.event_name != 'push' && (github.event_name == 'issues' || github.event.comment.user.login == github.repository_owner)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Validate or process owner decision
+        run: python3 moderate.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
