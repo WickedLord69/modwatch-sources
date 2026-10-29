@@ -38,13 +38,12 @@ body:
     attributes:
       label: Search aliases
       description: Optional alternate names, separated by semicolons.
-  - type: dropdown
+  - type: input
     id: comparison
     attributes:
       label: Version comparison
-      options:
-        - Normal version checks
-        - Require manual build review
+      description: Use Normal version checks or Require manual build review. ModWatch fills this for you.
+      value: Normal version checks
     validations:
       required: true
   - type: checkboxes
@@ -54,3 +53,5 @@ body:
       options:
         - label: I checked that this page supplies this exact plugin/script, rather than a vehicle, translation, dependency or unrelated add-on.
           required: true
+
+
