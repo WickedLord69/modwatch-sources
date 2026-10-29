@@ -1,0 +1,614 @@
+{
+  "SchemaVersion": 1,
+  "Entries": [
+    {
+      "FileName": "CalloutInterface.dll",
+      "Name": "Callout Interface",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37828-callout-interface/",
+      "Aliases": [
+        "CalloutInterface",
+        "Callout Interface"
+      ],
+      "ReviewOnly": true
+    },
+    {
+      "FileName": "CayoPericoRPH.dll",
+      "Name": "Cayo Perico Island for Single Player [RPH]",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/cayo-perico-island-for-single-player-ragepluginhook",
+      "Aliases": [
+        "CayoPericoRPH",
+        "Cayo Perico RPH"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "ClearTheWayV.dll",
+      "Name": "ClearTheWayV.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/10626-clearthewayv/",
+      "Aliases": [
+        "ClearTheWayV",
+        "Clear The Way V"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "CoastalCallouts.dll",
+      "Name": "Coastal Callouts",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/25465-coastal-callouts/",
+      "Aliases": [
+        "CoastalCallouts",
+        "Coastal Callouts"
+      ],
+      "ReviewOnly": true
+    },
+    {
+      "FileName": "CommonDataFramework.dll",
+      "Name": "Common Data Framework",
+      "Author": "",
+      "Url": "https://github.com/Policing-Redefined/CommonDataFramework",
+      "Aliases": [
+        "CommonDataFramework",
+        "Common Data Framework"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "CompuLite.dll",
+      "Name": "CompuLite",
+      "Author": "",
+      "Url": "https://www.bejoijo.com/post/compulite",
+      "Aliases": [
+        "CompuLite",
+        "Compu Lite"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "Custom Pullover.dll",
+      "Name": "Custom Pullover.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/27260-custom-pullover/",
+      "Aliases": [
+        "Custom Pullover"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "DeryllCallouts.dll",
+      "Name": "DeryllCallouts",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/46310-deryllcallouts/",
+      "Aliases": [
+        "DeryllCallouts",
+        "Deryll Callouts"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "ELS.asi",
+      "Name": "Emergency Lighting System (ELS)",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/13865-emergency-lighting-system/",
+      "Aliases": [
+        "ELS",
+        "Emergency Lighting System"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "EUPMenu.dll",
+      "Name": "EUP Menu",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/",
+      "Aliases": [
+        "EUPMenu",
+        "EUP Menu",
+        "Emergency Uniforms Pack Menu"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "EUPtoUB.dll",
+      "Name": "EUPToUB Converter",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/45371-euptoub-converter/",
+      "Aliases": [
+        "EUPtoUB",
+        "EU Pto UB"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "FoSAShelter.3.cs",
+      "Name": "FoSAShelter.3.cs",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/maps/forests-of-san-andreas-revised",
+      "Aliases": [
+        "FoSAShelter",
+        "Fo SA Shelter"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "fwBoxStreamerVariable_DecalsLimit-Patch.asi",
+      "Name": "fwBoxStreamerVariable_DecalsLimit-Patch.asi",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/tools/ymap-load-list-extent-limit-fix-fwboxstreamervariable-patch",
+      "Aliases": [
+        "fwBoxStreamerVariable_DecalsLimit-Patch",
+        "fw Box Streamer Variable Decals Limit Patch"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "GateFix.dll",
+      "Name": "Gate Fix",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/42792-gate-fix/",
+      "Aliases": [
+        "GateFix",
+        "Gate Fix"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "GTAV.PedPropLimitAdjuster.asi",
+      "Name": "GTAV.PedPropLimitAdjuster.asi",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/pedprop-limit-adjuster",
+      "Aliases": [
+        "GTAV.PedPropLimitAdjuster",
+        "GTAV.Ped Prop Limit Adjuster"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "GTAV.ResourceAdjuster.asi",
+      "Name": "GTAV.ResourceAdjuster.asi",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/tools/resource-adjuster",
+      "Aliases": [
+        "GTAV.ResourceAdjuster",
+        "GTAV.Resource Adjuster"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "HeapAdjuster.asi",
+      "Name": "HeapAdjuster",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/tools/heapadjuster",
+      "Aliases": [
+        "HeapAdjuster",
+        "Heap Adjuster"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "HWYCallouts.dll",
+      "Name": "BLK Highway Callouts",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37389-blk-highway-callouts/",
+      "Aliases": [
+        "HWYCallouts",
+        "HWY Callouts"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "Jurisdictions\u002B.dll",
+      "Name": "Jurisdictions\u002B (XML scripts for LSPDFR)",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/misc/lspdfr-xml-jurisdictions-versions",
+      "Aliases": [
+        "Jurisdictions\u002B"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "KTFDO.dll",
+      "Name": "KTFDO.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/13021-ktfdo-keep-the-f-door-open/",
+      "Aliases": [
+        "KTFDO"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "KucheraCallouts.dll",
+      "Name": "KucheraCallouts.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/43310-kuchera-callouts/",
+      "Aliases": [
+        "KucheraCallouts",
+        "Kuchera Callouts"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "LSPD First Response.dll",
+      "Name": "LSPDFR (review build)",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/",
+      "Aliases": [
+        "LSPD First Response"
+      ],
+      "ReviewOnly": true
+    },
+    {
+      "FileName": "MCCallouts.dll",
+      "Name": "MCCallouts",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/47079-mccallouts/",
+      "Aliases": [
+        "MCCallouts",
+        "MC Callouts"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "MoreFire.dll",
+      "Name": "More Fire - RPH Plugin",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/more-fire",
+      "Aliases": [
+        "MoreFire",
+        "More Fire"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "MTFO.dll",
+      "Name": "MTFO.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/47768-mtfo-move-the-f-over/",
+      "Aliases": [
+        "MTFO"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "NoBoundaryLimitsEnhanced.asi",
+      "Name": "No Boundary Limits Enhanced [Legacy \u002B Enhanced]",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/no-boundary-limits-enhanced",
+      "Aliases": [
+        "NoBoundaryLimitsEnhanced",
+        "No Boundary Limits Enhanced"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "NoMoreMelee.dll",
+      "Name": "NoMoreMelee.dll",
+      "Author": "",
+      "Url": "https://gta5mod.net/gta-5-mods/scripts/no-more-melee-v1-0/",
+      "Aliases": [
+        "NoMoreMelee",
+        "No More Melee"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "NoMoreRecording.dll",
+      "Name": "No More Recording",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/no-more-recording",
+      "Aliases": [
+        "NoMoreRecording",
+        "No More Recording"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "NoTurbulence.asi",
+      "Name": "No Turbulence",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/no-turbulence-unknown-modder",
+      "Aliases": [
+        "NoTurbulence",
+        "No Turbulence"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "openCameraV.asi",
+      "Name": "openCameraV.asi",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/tools/openiv",
+      "Aliases": [
+        "openCameraV",
+        "open Camera V"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "OpenInteriors.asi",
+      "Name": "Open All Interiors",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/open-all-interiors",
+      "Aliases": [
+        "OpenInteriors",
+        "Open Interiors"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "OpenIV.asi",
+      "Name": "OpenIV",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/tools/openiv",
+      "Aliases": [
+        "OpenIV",
+        "Open IV"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "PackfileLimitAdjuster.asi",
+      "Name": "Packfile Limit Adjuster",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/tools/packfile-limit-adjuster",
+      "Aliases": [
+        "PackfileLimitAdjuster",
+        "Packfile Limit Adjuster"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "PLD.asi",
+      "Name": "PLD.asi",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/7706-player-location-display/",
+      "Aliases": [
+        "PLD"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "PoliceTape.dll",
+      "Name": "PoliceTape.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/19488-police-tape/",
+      "Aliases": [
+        "PoliceTape",
+        "Police Tape"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "RAGENativeUI.dll",
+      "Name": "RAGENativeUI",
+      "Author": "",
+      "Url": "https://github.com/alexguirre/RAGENativeUI",
+      "Aliases": [
+        "RAGENativeUI",
+        "RAGE Native UI"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "RAGEPluginHook.exe",
+      "Name": "RAGEPluginHook.exe",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/",
+      "Aliases": [
+        "RAGEPluginHook",
+        "RAGE Plugin Hook"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "RealisticTrafficAI.dll",
+      "Name": "Realistic Traffic AI",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/51788-realistic-traffic-ai/",
+      "Aliases": [
+        "RealisticTrafficAI",
+        "Realistic Traffic AI"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "ResponseBackup.dll",
+      "Name": "ResponseBackup.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/55002-response-backup/",
+      "Aliases": [
+        "ResponseBackup",
+        "Response Backup"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "Restrain The Deceased.dll",
+      "Name": "Restrain The Deceased",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40798-restrain-the-deceased/",
+      "Aliases": [
+        "Restrain The Deceased"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "RichsPoliceEnhancements.dll",
+      "Name": "Rich\u0027s Police Enhancements",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/26640-richs-police-enhancements/",
+      "Aliases": [
+        "RichsPoliceEnhancements",
+        "Richs Police Enhancements"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "SceneManager.dll",
+      "Name": "Scene Manager (retired)",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/27954-scene-manager/",
+      "Aliases": [
+        "SceneManager",
+        "Scene Manager"
+      ],
+      "ReviewOnly": true
+    },
+    {
+      "FileName": "ScriptHookV.dll",
+      "Name": "Script Hook V",
+      "Author": "",
+      "Url": "https://www.dev-c.com/gtav/scripthookv/",
+      "Aliases": [
+        "ScriptHookV",
+        "Script Hook V"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "ScriptHookVDotNet.asi",
+      "Name": "ScriptHookVDotNet",
+      "Author": "",
+      "Url": "https://github.com/scripthookvdotnet/scripthookvdotnet",
+      "Aliases": [
+        "ScriptHookVDotNet",
+        "Script Hook V Dot Net"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "SimpleCamera.asi",
+      "Name": "Simple Camera",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/simple-camera",
+      "Aliases": [
+        "SimpleCamera",
+        "Simple Camera"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "SirenSetting_Limit_Adjuster.asi",
+      "Name": "SirenSetting_Limit_Adjuster.asi",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/",
+      "Aliases": [
+        "SirenSetting_Limit_Adjuster",
+        "Siren Setting Limit Adjuster"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "SpeedRadarLite.dll",
+      "Name": "SpeedRadarLite.dll",
+      "Author": "",
+      "Url": "https://www.bejoijo.com/post/speed-radar-lite",
+      "Aliases": [
+        "SpeedRadarLite",
+        "Speed Radar Lite"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "StickyWheels.dll",
+      "Name": "StickyWheels.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/13022-stickywheels/",
+      "Aliases": [
+        "StickyWheels",
+        "Sticky Wheels"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "StopThePed.dll",
+      "Name": "Stop The Ped",
+      "Author": "",
+      "Url": "https://www.bejoijo.com/post/stop-the-ped",
+      "Aliases": [
+        "StopThePed",
+        "Stop The Ped"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "Super_Sonic.3.cs",
+      "Name": "Super Sonic (Higher Aircraft Speed/Altitude w/ Effects)",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/super-sonic",
+      "Aliases": [
+        "Super_Sonic",
+        "Super Sonic"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "TACSIMS Casual Callouts.dll",
+      "Name": "TACSIMS Casual Callouts",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/51062-tacsims-casual-callouts/",
+      "Aliases": [
+        "TACSIMS Casual Callouts"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "TrainerV.asi",
+      "Name": "Simple Trainer for GTA V",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/scripts/simple-trainer-for-gtav",
+      "Aliases": [
+        "TrainerV",
+        "Trainer V"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "UltimateBackup.dll",
+      "Name": "Ultimate Backup",
+      "Author": "",
+      "Url": "https://www.bejoijo.com/post/ultimate-backup",
+      "Aliases": [
+        "UltimateBackup",
+        "Ultimate Backup"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "UnitedCallouts.dll",
+      "Name": "UnitedCallouts",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/20730-unitedcallouts/",
+      "Aliases": [
+        "UnitedCallouts",
+        "United Callouts"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "VitrozeLibrary.dll",
+      "Name": "VitrozeLibrary.dll",
+      "Author": "",
+      "Url": "https://www.lcpdfr.com/downloads/gta5mods/scripts/49067-callout-launcher/",
+      "Aliases": [
+        "VitrozeLibrary",
+        "Vitroze Library"
+      ],
+      "ReviewOnly": false
+    },
+    {
+      "FileName": "WeaponLimitsAdjuster.asi",
+      "Name": "Weapon Limits Adjuster",
+      "Author": "",
+      "Url": "https://www.gta5-mods.com/tools/cweaponinfoblob-limit-adjuster",
+      "Aliases": [
+        "WeaponLimitsAdjuster",
+        "Weapon Limits Adjuster"
+      ],
+      "ReviewOnly": false
+    }
+  ]
+}
